@@ -1,7 +1,7 @@
 /*
   * Game: Snake Game
   * Author: Emmett
-  * Date: 4th April - 03:21 AM
+  * Date: 4th April - 3:21 AM
   * Copyright (C) 2020
 */
 
